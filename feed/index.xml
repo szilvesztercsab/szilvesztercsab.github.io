@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Csaba Szilveszter-Berei</description>
-	<lastBuildDate>Sun, 02 Jan 2022 21:42:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 02 Jan 2022 23:51:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -170,7 +170,7 @@
 
 
 
-<p>Now you get a <em>some_user_name.github.io</em> site.</p>
+<p>And you&#8217;re done. That&#8217;s it.</p>
 ]]></content:encoded>
 					
 		
