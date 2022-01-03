@@ -3,7 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>How this site was made &#8211; skabah</title>
+					<script type="text/javascript" id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="eac20a8c-d3a1-45cb-96ca-e9fdcc870b26" data-culture="EN" async></script>
+				<title>How this site was made &#8211; skabah</title>
 <meta name="robots" content="max-image-preview:large">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="skabah &raquo; Feed" href="/feed/">
@@ -40,8 +41,8 @@ img.emoji {
 <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=%2Fhow-this-was-made%2F&#038;format=xml">
 
 		<!-- GA Google Analytics @ https://m0n.co/ga -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216025038-1"></script>
-		<script>
+		<script type="text/plain" data-cookieconsent="statistics" async src="https://www.googletagmanager.com/gtag/js?id=UA-216025038-1"></script>
+		<script type="text/plain" data-cookieconsent="statistics">
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
@@ -530,7 +531,22 @@ margin: var(--global--spacing-vertical) auto;
 }
 .site-footer>.site-info { display:none; }</style> 
 <!--/Customizer CSS-->
-</head>
+			<style type="text/css">video.wp-video-shortcode__disabled, audio.wp-audio-shortcode__disabled {
+					display: none;
+				}</style>
+			<script>
+				window.addEventListener( 'CookiebotOnTagsExecuted', function ( e ) {
+										const cookieTypes = 'statistics,marketing'
+					if ( cookieTypes.split(',').every( (cookie_type) => Cookiebot.consent[cookie_type] ) ) {
+						jQuery( '.wp-video-shortcode__disabled' ).addClass( 'wp-video-shortcode' ).removeClass( 'wp-video-shortcode__disabled' );
+						jQuery( '.wp-audio-shortcode__disabled' ).addClass( 'wp-audio-shortcode' ).removeClass( 'wp-audio-shortcode__disabled' );
+						if ( window.wp && window.wp.mediaelement && window.wp.mediaelement.initialize ) {
+							window.wp.mediaelement.initialize();
+						}
+					}
+				}, false );
+			</script>
+			</head>
 
 <body class="post-template-default single single-post postid-1 single-format-standard wp-embed-responsive is-light-theme no-js singular has-main-navigation no-widgets">
 <div id="page" class="site">
