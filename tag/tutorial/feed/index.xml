@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>skabah</title>
-	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<title>tutorial « skabah</title>
+	<atom:link href="http://localhost/tag/tutorial/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Csaba Szilveszter-Berei</description>
-	<lastBuildDate>Tue, 04 Jan 2022 21:30:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jan 2022 21:15:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,98 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
-		<title>The ideal tech-stack for the web</title>
-		<link>/the-ideal-tech-stack-for-the-web/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ideal-tech-stack-for-the-web</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 04 Jan 2022 21:14:58 +0000</pubDate>
-				<category><![CDATA[tech]]></category>
-		<category><![CDATA[github pages]]></category>
-		<category><![CDATA[jamstack]]></category>
-		<category><![CDATA[opinions]]></category>
-		<category><![CDATA[static site]]></category>
-		<category><![CDATA[static web page]]></category>
-		<category><![CDATA[tech stack]]></category>
-		<category><![CDATA[website]]></category>
-		<category><![CDATA[wordpress]]></category>
-		<guid isPermaLink="false">/?p=133</guid>
-
-					<description><![CDATA[<p>Is there an ideal tech stack for websites? Should you be worried about missing out on it?</p>
-<p>The post <a href="/the-ideal-tech-stack-for-the-web/">The ideal tech-stack for the web</a> first appeared on <a href="/">skabah</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p class="has-drop-cap"><strong>The ideal tech-stack for a website?</strong> <strong>There&#8217;s no such thing.</strong> Ideal things don&#8217;t exist in real life, but opinions do. And here&#8217;s mine.</p>
-
-
-
-<h2>Content management</h2>
-
-
-
-<p class="has-drop-cap">Don&#8217;t have a favorite <strong>CMS</strong> (content management software) and maybe I&#8217;ll never have one. None of them made a lasting impression. As you may have read in <a href="/how-this-was-made/" title="How this site was made">my previous post</a> this site does use WordPress but this is no way an endorsement of it. The choice was strictly influenced by market share. High market share means high usage. High usage usually translates to better support. Support is crucial, especially when you&#8217;re building and managing your site on your own.</p>
-
-
-
-<p class="has-drop-cap">If someone put a gun to my head I might choose <strong>the filesystem</strong> to manage my content. You know, files, folders, the trash can and such. It&#8217;s much more available and familiar to everyone than anything else. There&#8217;s not much support needed to use it either. Sounds ideal, right? Hard to argue with all that. But there&#8217;s a catch. The filesystem <strong>isn&#8217;t</strong> strictly speaking a web-content management system. It lets you manage the files you&#8217;ll need to create a website but you&#8217;ll still need to format those files as <code>HTML</code>, <code>CSS</code> and <code>JS</code>. Unformatted, raw text files just won&#8217;t do. Browsers need a rich text format to be able to render your content the way you&#8217;d like it to look.</p>
-
-
-
-<p><em>In short, when it comes to CMS, it doesn&#8217;t really matter what you use. It just shouldn&#8217;t get in your way.</em></p>
-
-
-
-<h2>Content authoring</h2>
-
-
-
-<p class="has-drop-cap">Writing posts or creating content is actually a job description. <strong>Copywriters are paid to do that and they deserve it.</strong> It&#8217;s hard to create useful content. Popular content is even harder to come up with and what you post on your website will make the difference between it becoming a hot zone or an abandoned graveyard.</p>
-
-
-
-<p class="has-drop-cap">As it may be apparent I do not have copywriter qualifications but I&#8217;ve written texts before so I do know letters, words and sentences and I can attempt to combine them into a coherent blog post. It&#8217;s never going to be as professional as paid content but it&#8217;ll have to do. All I need to figure out now is what tool to use to create those <code>HTML</code> files. And the list is endless. Could never review them all. </p>
-
-
-
-<p class="has-drop-cap">To simplify things we can take a look at the <em>two types</em> of <code>HTML</code> editing software: <em>the what-you-see-is-what-you-get editor</em> (<strong>WYSIWYG</strong>) and <em>the integrated development environment</em> (<strong>IDE</strong>). The first is easy to use but might offer inconsistent results, the second is hard to use but will give you consistency. The first might limit you to the editors functions, the second gives you power to do whatever (even stupid things). The first is like writing a document in your favorite Office suite, the second is like programming. It&#8217;s hard to choose a favorite with so many things to consider and it feels like it would be wrong to choose a favorite. In my daily work I use an IDE because people pay me to write code (not content). But the content of this website was written in WordPress&#8217; built-in WYSIWYG editor because by creating my own online presence I suddenly became an amateur copywriter and didn&#8217;t have time to write <code>HTML</code> in an IDE anymore.</p>
-
-
-
-<p><em>So author your content using the easiest tool you can put your hands on that spits out <code>HTML</code>, <code>CSS</code> and <code>JS</code>.</em></p>
-
-
-
-<h2>Hosting</h2>
-
-
-
-<p class="has-drop-cap"><strong>Simple</strong>. Whatever is free or cheap, easy to use, secure but also stable and reliable. And there&#8217;re too many hosting services out there to mention. And there&#8217;re too many pricing schemes out there. It&#8217;s just too much. <em>So actually it might not be that simple.</em></p>
-
-
-
-<p class="has-drop-cap">This site is what you might call a <em><strong>static web page</strong></em>. This makes choosing a hosting provider a somewhat easier task because all this site needs is some storage and a domain name. These types of sites even have a preferred tech-stack, the <a href="https://en.wikipedia.org/wiki/Jamstack" target="_blank" rel="noreferrer noopener nofollow">JAMStack</a>. There&#8217;re quite a few jamstack compatible and dedicated services on the internet. The great three (AWS, GCP and Azure) all support these types of sites and they cost close to 0 dollars to host.</p>
-
-
-
-<p class="has-drop-cap">This site is hosted on <strong>GitHub Pages</strong> as you might have read in <a href="/how-this-was-made/" title="How this site was made">my previous post</a> and hosting it there cost me 0 dollars. It was absolutely free. GitHub gave me a subdomain for free: <code>szilvesztercsab.github.io</code>. As a developer it made sense to use GitHub Pages to host my own site. GitHub is slowly becoming the facebook and the linkedin of developers and techies. Tech people spend a lot of their time around there and most of us are intimately familiar with their offering. But if suddenly GitHub would make it harder for the average developer to host a static site, people would be migrating in mass to other similar platforms.</p>
-
-
-
-<p><em>So hosting doesn&#8217;t matter much either but knowing how many free solutions there are on the internet you&#8217;d be negligent not to consider them.</em></p>
-
-
-
-<h2>In conclusion</h2>
-
-
-
-<p><strong>The best tech stack for the web (<em>in my opinion and particularly for these types of websites</em>) is the <em><a href="https://jamstack.org/" target="_blank" rel="noreferrer noopener nofollow" title="https://jamstack.org/">JAMStack</a></em>. And it always has been.</strong></p>
-
-
-
-<p>After all, the first ever web page also was and still is <em>static</em>. Check it out: <a href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank" rel="noreferrer noopener nofollow">http://info.cern.ch/hypertext/WWW/TheProject.html</a>.</p><p>The post <a href="/the-ideal-tech-stack-for-the-web/">The ideal tech-stack for the web</a> first appeared on <a href="/">skabah</a>.</p>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>How this site was made</title>
 		<link>/how-this-was-made/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-this-was-made</link>
 		
