@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>How this site was made</title>
-		<link>/how-this-was-made/</link>
+		<link>/how-this-was-made/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-this-was-made</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 02 Jan 2022 14:01:01 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[How to create a sexy website for cheap? Short answer: there&#8217;s no magic formula. Spoiler alert: here&#8217;s a non-magical formula instead. TLDR Requirements cheap (free if at all possible, minimal cost if any) lazy (no code or design should be required, nor too much effort) could still pass as a professional website and fool everyone&#8230; <a class="more-link" href="/how-this-was-made/">Continue reading <span class="screen-reader-text">How this site was made</span></a>]]></description>
-										<content:encoded><![CDATA[
-<p class="has-drop-cap">How to create a sexy website for cheap? Short answer: there&#8217;s no magic formula. Spoiler alert: here&#8217;s a non-magical formula instead.</p>
+					<description><![CDATA[<p>How to create a sexy website for cheap? Short answer: there&#8217;s no magic formula. Spoiler alert: here&#8217;s a non-magical formula instead. TLDR Requirements cheap (free if at all possible, minimal cost if any) lazy (no code or design should be required, nor too much effort) could still pass as a professional website and fool everyone&#8230; <a class="more-link" href="/how-this-was-made/">Continue reading <span class="screen-reader-text">How this site was made</span></a></p>
+<p>The post <a href="/how-this-was-made/">How this site was made</a> first appeared on <a href="/">skabah</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p class="has-drop-cap">How to create a sexy website for cheap? Short answer: there&#8217;s no magic formula. Spoiler alert: here&#8217;s a non-magical formula instead.</p>
 
 
 
@@ -170,8 +170,7 @@
 
 
 
-<p>And you&#8217;re done. That&#8217;s it.</p>
-]]></content:encoded>
+<p>And you&#8217;re done. That&#8217;s it.</p><p>The post <a href="/how-this-was-made/">How this site was made</a> first appeared on <a href="/">skabah</a>.</p>]]></content:encoded>
 					
 		
 		
