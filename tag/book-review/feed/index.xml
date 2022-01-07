@@ -10,7 +10,7 @@
 <channel>
 	<title>book review « skabah</title>
 	<atom:link href="http://localhost/tag/book-review/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>https://szilvesztercsab.github.io/</link>
 	<description>Csaba Szilveszter-Berei</description>
 	<lastBuildDate>Fri, 07 Jan 2022 18:58:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 	<item>
 		<title>“Accelerate” – a very personal book review</title>
-		<link>/accelerate-book-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=accelerate-book-review</link>
+		<link>https://szilvesztercsab.github.io/accelerate-book-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=accelerate-book-review</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Jan 2022 18:56:18 +0000</pubDate>
@@ -29,10 +29,10 @@
 		<category><![CDATA[book review]]></category>
 		<category><![CDATA[developer practices]]></category>
 		<category><![CDATA[opinions]]></category>
-		<guid isPermaLink="false">/?p=140</guid>
+		<guid isPermaLink="false">https://szilvesztercsab.github.io/?p=140</guid>
 
 					<description><![CDATA[<p>I just read a book. It made me laugh, cry, reevaluate my values, and it confirmed some of my suspicions too. All at the same time.</p>
-<p>The post <a href="/accelerate-book-review/">“Accelerate” – a very personal book review</a> first appeared on <a href="/">skabah</a>.</p>]]></description>
+<p>The post <a href="https://szilvesztercsab.github.io/accelerate-book-review/">“Accelerate” – a very personal book review</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p class="has-drop-cap">Last time I did a book review, I was in school, and it was homework. Since then, I kept my opinions to myself about the books I read, maybe because I&#8217;m bad at writing book reviews or maybe because those books didn&#8217;t merit one (I suspect it&#8217;s the former). This book definitely merits a closer look. It&#8217;s called: <em>“<strong>Accelerate</strong>”</em>. Subtitle: <em>“The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations”</em>. Written by <em>Nicole Forsgren PhD, Jez Humble</em> and <em>Gene Kim</em>. And <strong>it&#8217;s going to knock your socks off</strong>.</p>
 
 
@@ -78,7 +78,7 @@
 
 
 <pre class="wp-block-preformatted">Disclaimer:
-No one paid me to write this review.</pre><p>The post <a href="/accelerate-book-review/">“Accelerate” – a very personal book review</a> first appeared on <a href="/">skabah</a>.</p>]]></content:encoded>
+No one paid me to write this review.</pre><p>The post <a href="https://szilvesztercsab.github.io/accelerate-book-review/">“Accelerate” – a very personal book review</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></content:encoded>
 					
 		
 		

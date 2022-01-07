@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on January 7, 2022 at 6:59 pm by All in One SEO - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on January 7, 2022 at 7:59 pm by All in One SEO - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=post_tag"?>
+<?xml-stylesheet type="text/xsl" href="https://szilvesztercsab.github.io/default.xsl?sitemap=post_tag"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/tag/tech/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/tech/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:15:20+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/site/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/site/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:15:20+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/website/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/website/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:30:16+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/howto/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/howto/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:15:20+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/tutorial/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/tutorial/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:15:20+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/wordpress/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/wordpress/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:30:16+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/static-site/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/static-site/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:30:16+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/github-pages/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/github-pages/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:30:16+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/opinions/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/opinions/]]></loc>
 		<lastmod><![CDATA[2022-01-07T18:58:40+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/tech-stack/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/tech-stack/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:30:16+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/jamstack/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/jamstack/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:30:16+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/static-web-page/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/static-web-page/]]></loc>
 		<lastmod><![CDATA[2022-01-04T21:30:16+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/book-review/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/book-review/]]></loc>
 		<lastmod><![CDATA[2022-01-07T18:58:40+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/tag/developer-practices/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/tag/developer-practices/]]></loc>
 		<lastmod><![CDATA[2022-01-07T18:58:40+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on January 7, 2022 at 6:59 pm by All in One SEO - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on January 7, 2022 at 7:59 pm by All in One SEO - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=page"?>
+<?xml-stylesheet type="text/xsl" href="https://szilvesztercsab.github.io/default.xsl?sitemap=page"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/]]></loc>
 		<lastmod><![CDATA[2022-01-03T11:02:37+00:00]]></lastmod>
 		<changefreq><![CDATA[always]]></changefreq>
 		<priority><![CDATA[1]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/contact/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/contact/]]></loc>
 		<lastmod><![CDATA[2022-01-03T10:13:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/blog/]]></loc>
+		<loc><![CDATA[https://szilvesztercsab.github.io/blog/]]></loc>
 		<lastmod><![CDATA[2022-01-02T14:12:03+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>

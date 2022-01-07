@@ -10,7 +10,7 @@
 <channel>
 	<title>opinions « skabah</title>
 	<atom:link href="http://localhost/tag/opinions/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>https://szilvesztercsab.github.io/</link>
 	<description>Csaba Szilveszter-Berei</description>
 	<lastBuildDate>Fri, 07 Jan 2022 18:58:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 	<item>
 		<title>“Accelerate” – a very personal book review</title>
-		<link>/accelerate-book-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=accelerate-book-review</link>
+		<link>https://szilvesztercsab.github.io/accelerate-book-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=accelerate-book-review</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 Jan 2022 18:56:18 +0000</pubDate>
@@ -29,10 +29,10 @@
 		<category><![CDATA[book review]]></category>
 		<category><![CDATA[developer practices]]></category>
 		<category><![CDATA[opinions]]></category>
-		<guid isPermaLink="false">/?p=140</guid>
+		<guid isPermaLink="false">https://szilvesztercsab.github.io/?p=140</guid>
 
 					<description><![CDATA[<p>I just read a book. It made me laugh, cry, reevaluate my values, and it confirmed some of my suspicions too. All at the same time.</p>
-<p>The post <a href="/accelerate-book-review/">“Accelerate” – a very personal book review</a> first appeared on <a href="/">skabah</a>.</p>]]></description>
+<p>The post <a href="https://szilvesztercsab.github.io/accelerate-book-review/">“Accelerate” – a very personal book review</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p class="has-drop-cap">Last time I did a book review, I was in school, and it was homework. Since then, I kept my opinions to myself about the books I read, maybe because I&#8217;m bad at writing book reviews or maybe because those books didn&#8217;t merit one (I suspect it&#8217;s the former). This book definitely merits a closer look. It&#8217;s called: <em>“<strong>Accelerate</strong>”</em>. Subtitle: <em>“The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations”</em>. Written by <em>Nicole Forsgren PhD, Jez Humble</em> and <em>Gene Kim</em>. And <strong>it&#8217;s going to knock your socks off</strong>.</p>
 
 
@@ -78,14 +78,14 @@
 
 
 <pre class="wp-block-preformatted">Disclaimer:
-No one paid me to write this review.</pre><p>The post <a href="/accelerate-book-review/">“Accelerate” – a very personal book review</a> first appeared on <a href="/">skabah</a>.</p>]]></content:encoded>
+No one paid me to write this review.</pre><p>The post <a href="https://szilvesztercsab.github.io/accelerate-book-review/">“Accelerate” – a very personal book review</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
 		<title>The ideal tech-stack for the web</title>
-		<link>/the-ideal-tech-stack-for-the-web/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ideal-tech-stack-for-the-web</link>
+		<link>https://szilvesztercsab.github.io/the-ideal-tech-stack-for-the-web/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ideal-tech-stack-for-the-web</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 04 Jan 2022 21:14:58 +0000</pubDate>
@@ -98,10 +98,10 @@ No one paid me to write this review.</pre><p>The post <a href="/accelerate-book-
 		<category><![CDATA[tech stack]]></category>
 		<category><![CDATA[website]]></category>
 		<category><![CDATA[wordpress]]></category>
-		<guid isPermaLink="false">/?p=133</guid>
+		<guid isPermaLink="false">https://szilvesztercsab.github.io/?p=133</guid>
 
 					<description><![CDATA[<p>Is there an ideal tech stack for websites? Should you be worried about missing out on it?</p>
-<p>The post <a href="/the-ideal-tech-stack-for-the-web/">The ideal tech-stack for the web</a> first appeared on <a href="/">skabah</a>.</p>]]></description>
+<p>The post <a href="https://szilvesztercsab.github.io/the-ideal-tech-stack-for-the-web/">The ideal tech-stack for the web</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p class="has-drop-cap"><strong>The ideal tech-stack for a website?</strong> <strong>There&#8217;s no such thing.</strong> Ideal things don&#8217;t exist in real life, but opinions do. And here&#8217;s mine.</p>
 
 
@@ -110,7 +110,7 @@ No one paid me to write this review.</pre><p>The post <a href="/accelerate-book-
 
 
 
-<p class="has-drop-cap">Don&#8217;t have a favorite <strong>CMS</strong> (content management software) and maybe I&#8217;ll never have one. None of them made a lasting impression. As you may have read in <a href="/how-this-was-made/" title="How this site was made">my previous post</a> this site does use WordPress but this is no way an endorsement of it. The choice was strictly influenced by market share. High market share means high usage. High usage usually translates to better support. Support is crucial, especially when you&#8217;re building and managing your site on your own.</p>
+<p class="has-drop-cap">Don&#8217;t have a favorite <strong>CMS</strong> (content management software) and maybe I&#8217;ll never have one. None of them made a lasting impression. As you may have read in <a href="https://szilvesztercsab.github.io/how-this-was-made/" title="How this site was made">my previous post</a> this site does use WordPress but this is no way an endorsement of it. The choice was strictly influenced by market share. High market share means high usage. High usage usually translates to better support. Support is crucial, especially when you&#8217;re building and managing your site on your own.</p>
 
 
 
@@ -154,7 +154,7 @@ No one paid me to write this review.</pre><p>The post <a href="/accelerate-book-
 
 
 
-<p class="has-drop-cap">This site is hosted on <strong>GitHub Pages</strong> as you might have read in <a href="/how-this-was-made/" title="How this site was made">my previous post</a> and hosting it there cost me 0 dollars. It was absolutely free. GitHub gave me a subdomain for free: <code>szilvesztercsab.github.io</code>. As a developer it made sense to use GitHub Pages to host my own site. GitHub is slowly becoming the facebook and the linkedin of developers and techies. Tech people spend a lot of their time around there and most of us are intimately familiar with their offering. But if suddenly GitHub would make it harder for the average developer to host a static site, people would be migrating in mass to other similar platforms.</p>
+<p class="has-drop-cap">This site is hosted on <strong>GitHub Pages</strong> as you might have read in <a href="https://szilvesztercsab.github.io/how-this-was-made/" title="How this site was made">my previous post</a> and hosting it there cost me 0 dollars. It was absolutely free. GitHub gave me a subdomain for free: <code>szilvesztercsab.github.io</code>. As a developer it made sense to use GitHub Pages to host my own site. GitHub is slowly becoming the facebook and the linkedin of developers and techies. Tech people spend a lot of their time around there and most of us are intimately familiar with their offering. But if suddenly GitHub would make it harder for the average developer to host a static site, people would be migrating in mass to other similar platforms.</p>
 
 
 
@@ -170,7 +170,7 @@ No one paid me to write this review.</pre><p>The post <a href="/accelerate-book-
 
 
 
-<p>After all, the first ever web page also was and still is <em>static</em>. Check it out: <a href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank" rel="noreferrer noopener nofollow">http://info.cern.ch/hypertext/WWW/TheProject.html</a>.</p><p>The post <a href="/the-ideal-tech-stack-for-the-web/">The ideal tech-stack for the web</a> first appeared on <a href="/">skabah</a>.</p>]]></content:encoded>
+<p>After all, the first ever web page also was and still is <em>static</em>. Check it out: <a href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank" rel="noreferrer noopener nofollow">http://info.cern.ch/hypertext/WWW/TheProject.html</a>.</p><p>The post <a href="https://szilvesztercsab.github.io/the-ideal-tech-stack-for-the-web/">The ideal tech-stack for the web</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></content:encoded>
 					
 		
 		
