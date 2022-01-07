@@ -1,14 +1,22 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=/post-sitemap.xml%5D%5D%3E/">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "/post-sitemap.xml%5D%5D%3E/";
-		</script>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on January 7, 2022 at 11:49 am by All in One SEO - the original SEO plugin for WordPress. -->
 
-		<p>You are being redirected to <a href="/post-sitemap.xml%5D%5D%3E/">/post-sitemap.xml%5D%5D%3E/</a></p>
-	</body>
-</html>
+<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=post"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/how-this-was-made/]]></loc>
+		<lastmod><![CDATA[2022-01-04T21:15:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/the-ideal-tech-stack-for-the-web/]]></loc>
+		<lastmod><![CDATA[2022-01-04T21:30:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>

@@ -1,14 +1,16 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=/category-sitemap.xml%5D%5D%3E/">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "/category-sitemap.xml%5D%5D%3E/";
-		</script>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on January 7, 2022 at 11:49 am by All in One SEO - the original SEO plugin for WordPress. -->
 
-		<p>You are being redirected to <a href="/category-sitemap.xml%5D%5D%3E/">/category-sitemap.xml%5D%5D%3E/</a></p>
-	</body>
-</html>
+<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=category"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/category/tech/]]></loc>
+		<lastmod><![CDATA[2022-01-04T21:30:16+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+</urlset>
