@@ -80,6 +80,11 @@ img.emoji {
     border-bottom-style: solid;
     border-bottom-width: 0;
 }
+@media print {
+	a:after {
+		content: "" !important;
+	}
+}
 @media (min-width: 1240px) {
     .blog .page-header {
         max-width: none;
@@ -544,7 +549,7 @@ margin: var(--global--spacing-vertical) auto;
 	white-space: nowrap;
 	overflow: hidden;
 }
-.site-main { padding-top:30px ; }.page .entry-header, .single .entry-header { display:none; }.archive .page-header { display:none; }.post-taxonomies { display:none; }.tags-links { display:none; }.archive .entry-footer .cat-links, .single .site-main>article>.entry-footer .cat-links { display:none; }.posted-on { display:none; }.post-navigation { display:none; }.single .site-main > article > .entry-footer .byline {
+.site-main { padding-top:30px ; }.page .entry-header, .single .entry-header { display:none; }.archive .page-header { display:none; }.post-taxonomies { display:none; }.tags-links { display:none; }.archive .entry-footer .cat-links, .single .site-main>article>.entry-footer .cat-links { display:none; }.post-navigation { display:none; }.single .site-main > article > .entry-footer .byline {
 	display: none;
 }
 .widget-area, .no-widgets .site-footer {
@@ -555,7 +560,17 @@ margin: var(--global--spacing-vertical) auto;
 		margin-top: 5px;
 	}
 }
-.site-footer>.site-info { display:none; }</style> 
+@media only screen and (min-width: 652px) {
+	.widget-area {
+		grid-template-columns: repeat(1, 1fr);
+	}
+}
+@media only screen and (min-width: 1024px) {
+	.widget-area {
+		grid-template-columns: repeat(1, 1fr);
+	}
+}
+.site-footer>.site-info { display:none; }.powered-by { display:none; }</style> 
 <!--/Customizer CSS-->
 			<style type="text/css">video.wp-video-shortcode__disabled, audio.wp-audio-shortcode__disabled {
 					display: none;
@@ -572,7 +587,11 @@ margin: var(--global--spacing-vertical) auto;
 					}
 				}, false );
 			</script>
-			</head>
+			<link rel="icon" href="https://szilvesztercsab.github.io/wp-content/uploads/2022/01/logo-1-150x150.png" sizes="32x32">
+<link rel="icon" href="https://szilvesztercsab.github.io/wp-content/uploads/2022/01/logo-1.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://szilvesztercsab.github.io/wp-content/uploads/2022/01/logo-1.png">
+<meta name="msapplication-TileImage" content="https://szilvesztercsab.github.io/wp-content/uploads/2022/01/logo-1.png">
+</head>
 
 <body class="archive category category-tech category-4 wp-embed-responsive is-light-theme no-js hfeed has-main-navigation no-widgets">
 <div id="page" class="site">

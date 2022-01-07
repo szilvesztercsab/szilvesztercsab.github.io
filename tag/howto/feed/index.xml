@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://szilvesztercsab.github.io/wp-content/uploads/2022/01/logo-1-150x150.png</url>
+	<title>howto « skabah</title>
+	<link>https://szilvesztercsab.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>How this site was made</title>
 		<link>https://szilvesztercsab.github.io/how-this-was-made/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-this-was-made</link>
