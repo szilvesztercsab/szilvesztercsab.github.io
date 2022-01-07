@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>book review « skabah</title>
+	<atom:link href="http://localhost/tag/book-review/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Csaba Szilveszter-Berei</description>
+	<lastBuildDate>Fri, 07 Jan 2022 18:58:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<item>
+		<title>“Accelerate” – a very personal book review</title>
+		<link>/accelerate-book-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=accelerate-book-review</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jan 2022 18:56:18 +0000</pubDate>
+				<category><![CDATA[tech]]></category>
+		<category><![CDATA[book review]]></category>
+		<category><![CDATA[developer practices]]></category>
+		<category><![CDATA[opinions]]></category>
+		<guid isPermaLink="false">/?p=140</guid>
+
+					<description><![CDATA[<p>I just read a book. It made me laugh, cry, reevaluate my values, and it confirmed some of my suspicions too. All at the same time.</p>
+<p>The post <a href="/accelerate-book-review/">“Accelerate” – a very personal book review</a> first appeared on <a href="/">skabah</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p class="has-drop-cap">Last time I did a book review, I was in school, and it was homework. Since then, I kept my opinions to myself about the books I read, maybe because I&#8217;m bad at writing book reviews or maybe because those books didn&#8217;t merit one (I suspect it&#8217;s the former). This book definitely merits a closer look. It&#8217;s called: <em>“<strong>Accelerate</strong>”</em>. Subtitle: <em>“The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations”</em>. Written by <em>Nicole Forsgren PhD, Jez Humble</em> and <em>Gene Kim</em>. And <strong>it&#8217;s going to knock your socks off</strong>.</p>
+
+
+
+<h2>It&#8217;s not what you think…</h2>
+
+
+
+<p class="has-drop-cap">The subtitle summarizes the topic well, no extra explanation necessary. But with such a subtitle, you&#8217;d be naturally expecting a bunch of office politics, empty motivational speeches or “manager-speak” in there, and I would be the last person to recommend such a thing. The hair on my back stands in salute when some distant non-tech figure starts talking <em>scalability</em> and <em>performance</em> like they know what they mean (one of the reasons I don&#8217;t frequent tech conferences anymore). Lots of these well intended motivational initiatives end up being either empty (lacking punch and reason) or bloated (with unforeseen consequences and side effects). But this book… damn… it&#8217;s good.</p>
+
+
+
+<h2>What the…</h2>
+
+
+
+<p class="has-drop-cap">I&#8217;ve been probably living under a rock because I&#8217;ve never heard about the authors before reading the book. Nor have I heard about the book before watching a talk by <a href="https://charity.wtf/" target="_blank" rel="noreferrer noopener">Charity Majors</a> somewhere on Vimeo (sorry, don&#8217;t have the link anymore). My CTO recommended one of her “scandalous” talks to us (all of them are scandalous, really) where she mentioned this book as validation of the crazy things she says. These things seem to go against everything you thought you knew about software development. They say things like: </p>
+
+
+
+<ul><li>Deploy ASAP to production!</li><li>Test in production!</li><li>Deploy to production on Fridays too!</li><li>Don&#8217;t just stand around doing integration work!</li><li>You don&#8217;t evaluate security, you build it in!</li><li>Don&#8217;t just follow practices because people say “they&#8217;re good”!</li><li>Don&#8217;t just follow practices because “they were good last time too”!</li><li>Make time to make your work more comfortable/easy/effortless!</li><li>Go fast and don&#8217;t look back too often!</li><li>etc.</li></ul>
+
+
+
+<p><em>WTH?! U crazy? You can&#8217;t just go around telling people what they&#8217;ve been doing their whole lives is wrong! What about this? And what about that? LOL. SIGH.</em></p>
+
+
+
+<p class="has-drop-cap">At least those were my first reactions, and judging from the feedback she (still) gets, they weren&#8217;t just mine. People working in this industry have always been biased towards the tools and practices they thought would adequately cover their asses. Myself included. This bias won&#8217;t go away any time soon, but now that we know it exists, even though it&#8217;s not rational, we can moderate it, balance it out, notice it in ourselves and others (the former being more important, FYI).</p>
+
+
+
+<h2>It&#8217;s science, baby…</h2>
+
+
+
+<p class="has-drop-cap">The book isn&#8217;t <em>pseudoscientific</em> like you&#8217;d expect books about organizations and management to be. It&#8217;s NOT a collection of new trendy concepts that are actually void of any meaning. It&#8217;s NOT a motivational soap opera. It&#8217;s NOT about a truth only available to initiates. It&#8217;s actually the real deal. It&#8217;s <strong>science</strong>. You know… Bibliography… Clearly marked references to other research… Using and presenting the research method… Analyzing the data, etc. It&#8217;s what you&#8217;d rather expect from a peer reviewed scientific journal.</p>
+
+
+
+<p class="has-drop-cap">So it was like a breath of fresh air to read <strong>actual scientific proof</strong> of just how wrong my preconceptions were about some things, and how my intuition might have been right all along about other things. I won&#8217;t even attempt to go into detail about either of those because yours will surely be totally different. You just have to read the book and battle your demons yourself. But <strong>it&#8217;s totally worth it</strong> (as the book itself clearly demonstrates).</p>
+
+
+
+<pre class="wp-block-preformatted">Disclaimer:
+No one paid me to write this review.</pre><p>The post <a href="/accelerate-book-review/">“Accelerate” – a very personal book review</a> first appeared on <a href="/">skabah</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
