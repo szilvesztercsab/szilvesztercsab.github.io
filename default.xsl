@@ -128,7 +128,8 @@
 			display: none;
 		}
 	}
-</style>			</head>
+</style>
+			</head>
 			<body>
 				<xsl:variable name="amountOfURLs">
 					<xsl:choose>
@@ -367,10 +368,11 @@
 						</xsl:choose>
 					</xsl:otherwise>
 				</xsl:choose>
-				and was generated on January 7, 2022 at 11:20 pm			</p>
+				and was generated on January 20, 2022 at 8:56 pm			</p>
 		</xsl:if>
 	</div>
-</xsl:template>	<xsl:template name="formatPriority">
+</xsl:template>
+	<xsl:template name="formatPriority">
 	<xsl:param name="priority"/>
 
 	<xsl:variable name="priorityLevel">
@@ -395,7 +397,8 @@
 		</xsl:attribute>
 		<xsl:value-of select="$priorityLabel" />
 	</div>
-</xsl:template>	<xsl:template name="emptySitemap">
+</xsl:template>
+	<xsl:template name="emptySitemap">
 	<div class="breadcrumb">
 	<svg class="back" width="6" height="9" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.274 7.56L2.22 4.5l3.054-3.06-.94-.94-4 4 4 4 .94-.94z" fill="#141B38"/></svg>
 
@@ -406,7 +409,7 @@
 					<span>Sitemap Index</span>
 				</div>	<div class="empty-sitemap">
 		<h2 class="empty-sitemap__title">
-			Whoops!			<br/>
+			Whoops!			<br />
 			There are no posts here		</h2>
 		<div class="empty-sitemap__buttons">
 			<a href="https://szilvesztercsab.github.io/" class="button">Back to Homepage</a>
@@ -431,4 +434,5 @@
 			}
 		}
 	</style>
-</xsl:template></xsl:stylesheet>
+</xsl:template>
+</xsl:stylesheet>

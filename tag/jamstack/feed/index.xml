@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/tag/jamstack/feed/" rel="self" type="application/rss+xml" />
 	<link>https://szilvesztercsab.github.io/</link>
 	<description>Csaba Szilveszter-Berei</description>
-	<lastBuildDate>Tue, 04 Jan 2022 21:30:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Jan 2022 23:32:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>The ideal tech-stack for the web</title>
-		<link>https://szilvesztercsab.github.io/the-ideal-tech-stack-for-the-web/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ideal-tech-stack-for-the-web</link>
+		<link>https://szilvesztercsab.github.io/ideal-web-stack/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ideal-web-stack</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 04 Jan 2022 21:14:58 +0000</pubDate>
@@ -45,7 +45,7 @@
 		<guid isPermaLink="false">https://szilvesztercsab.github.io/?p=133</guid>
 
 					<description><![CDATA[<p>Is there an ideal tech stack for websites? Should you be worried about missing out on it?</p>
-<p>The post <a href="https://szilvesztercsab.github.io/the-ideal-tech-stack-for-the-web/">The ideal tech-stack for the web</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></description>
+<p>The post <a href="https://szilvesztercsab.github.io/ideal-web-stack/">The ideal tech-stack for the web</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p class="has-drop-cap"><strong>The ideal tech-stack for a website?</strong> <strong>There&#8217;s no such thing.</strong> Ideal things don&#8217;t exist in real life, but opinions do. And here&#8217;s mine.</p>
 
 
@@ -114,7 +114,7 @@
 
 
 
-<p>After all, the first ever web page also was and still is <em>static</em>. Check it out: <a href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank" rel="noreferrer noopener nofollow">http://info.cern.ch/hypertext/WWW/TheProject.html</a>.</p><p>The post <a href="https://szilvesztercsab.github.io/the-ideal-tech-stack-for-the-web/">The ideal tech-stack for the web</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></content:encoded>
+<p>After all, the first ever web page also was and still is <em>static</em>. Check it out: <a href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank" rel="noreferrer noopener nofollow">http://info.cern.ch/hypertext/WWW/TheProject.html</a>.</p><p>The post <a href="https://szilvesztercsab.github.io/ideal-web-stack/">The ideal tech-stack for the web</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></content:encoded>
 					
 		
 		

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/tag/github-pages/feed/" rel="self" type="application/rss+xml" />
 	<link>https://szilvesztercsab.github.io/</link>
 	<description>Csaba Szilveszter-Berei</description>
-	<lastBuildDate>Tue, 04 Jan 2022 21:30:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Jan 2022 20:55:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,8 +28,89 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lessons learned from this experiment</title>
+		<link>https://szilvesztercsab.github.io/lessons-learned-from-this-experiment/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lessons-learned-from-this-experiment</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2022 20:55:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[github pages]]></category>
+		<category><![CDATA[opinions]]></category>
+		<category><![CDATA[static site]]></category>
+		<category><![CDATA[website]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://szilvesztercsab.github.io/?p=154</guid>
+
+					<description><![CDATA[<p>Time to assess what went well and what failed in this experiment. Were the parameters respected? Were the results satisfying? Was the method scientific enough?</p>
+<p>The post <a href="https://szilvesztercsab.github.io/lessons-learned-from-this-experiment/">Lessons learned from this experiment</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p class="has-drop-cap">My first post on this blog (<a href="https://szilvesztercsab.github.io/how-this-was-made/" title="how this site was made">how this site was made</a>) was a kind of tutorial but also an introduction to the experiment. This experiment. Creating and managing a site while playing dumb and poor. It&#8217;s time to analyze the results and draw some conclusions.</p>
+
+
+
+<h2>The hypothesis</h2>
+
+
+
+<p class="has-drop-cap">A professional looking website should be easy and cheap to create and manage. Anyone should be able to handle it without being a developer, designer, copywriter, a time-millionaire or particularly rich. Nor much time nor effort nor money should be required. Anyone with an internet connection and any kind of computer should be able to do it. So there were three requirements for the hypothesis to become theory. The website needed to be:</p>
+
+
+
+<ol><li>Cheap</li><li><span style="font-family: var(--list--font-family); background-color: var(--global--color-background); color: var(--global--color-primary); font-size: var(--global--font-size-base);">Easy to set up</span> and manage</li><li>Looking professional</li></ol>
+
+
+
+<p class="has-drop-cap">Arguably, almost everything on that list is subjective, but <em>cheapness</em> is not. It can be fixed to a hard value. My personal choice was <strong>$0</strong>. <em>Ease</em> of use and configuration I decided to measure in effort and time spent. The less, the better. <em>Professionalism</em> (or the appearance of it) is the most subjective. It just wasn&#8217;t worth measuring, so I just gave it a true/false evaluation.</p>
+
+
+
+<h2>The method</h2>
+
+
+
+<p class="has-drop-cap">So, to create a website, first, you choose a <strong>domain name</strong>, preferably a cheap one. A quick google search for “cheap domains” will give you a range of options. “Cheap” here should mean less than <strong>$10</strong>. You can get one for free, but beware: the no-cost top level domains offered all around the internet are far from professional. They are known for spam and malicious sites. If you absolutely want to avoid paying for one, then select a service that offers a free <strong>subdomain</strong> instead. Can&#8217;t think of anything more respectable than <em>GitHub</em> at the moment, but that&#8217;s just because I didn&#8217;t do much in-depth research. Some services (like <em>wordpress.com,</em> for ex.) do offer free subdomains, but they also tie your hands on more levels than you can imagine. It&#8217;s all just a ruse to make you pay. Then pay some more.</p>
+
+
+
+<p class="has-drop-cap">Then you pick a <strong>content management system</strong>. This is a tough one. There are quite a few of them out there. This is what will define your overall experience, so you should choose carefully. In my research, market share was the deciding criteria. Hence, <em>WordPress</em>. It wasn&#8217;t my first encounter with the software, but I&#8217;m still not a fan. While it&#8217;s absolutely free (even better, open-source), most of the plugins, themes, and extra customization options are not. Most of them offer a free demo or trial, but a lot of these are missing mission critical features. Just another ruse to make you pay. Then pay some more.</p>
+
+
+
+<p class="has-drop-cap"><strong>Exporting</strong> a <em>WordPress</em> site to static shouldn&#8217;t be rocket-science. There are plenty of plugins that do this. I chose <em>Simply Static</em>. But like I said in the previous paragraph, there&#8217;s going to be a mission critical feature missing from the free versions of these plugins. In my case, it was the ability to export my site directly into <em>GitHub</em>. Had to export it to the local file system, only then upload it to <em>GitHub.</em></p>
+
+
+
+<h2>The results (so far)</h2>
+
+
+
+<p class="has-drop-cap">By this time, you probably suspect this is not going to be flattering or satisfying. It was probably inevitable. Having it free and great in today&#8217;s world might even be a naive fantasy. Consequently, I had to jump through hoops to achieve it.</p>
+
+
+
+<p><strong>The $0 target was achieved.</strong> It is possible to have an absolutely free site.</p>
+
+
+
+<p><strong>Ease of setup and usage was not.</strong> I consider all the effort put into it to be too much for my liking, and I can&#8217;t imagine a non-technical person doing it. It should have been much more accessible, and it should have taken a lot less time.</p>
+
+
+
+<p><strong>But it does look professional.</strong> At least in my opinion. Mind you, I have no taste for professional design.</p>
+
+
+
+<h2>What&#8217;s next?</h2>
+
+
+
+<p class="has-drop-cap">I&#8217;ll be working on improving my method. This probably means trying  many different content management solutions, something other than <em>WordPress</em>. <em>WordPress</em> is either too complicated or too expensive. Its WYSIWYG editor is definitely advanced enough, but most third party plugins for it just seem bloatware and get in your way. It&#8217;s good enough for a one-off site that you will forget about after creating it, but even Microsoft Word might be good for that and that doesn&#8217;t have such a steep learning curve. — Actually, I have a friend hell-bent on proving that MS Word is good enough for every non-technical person to create a site. I&#8217;ll be super excited to review his results when he&#8217;s done. — For now, when I&#8217;ll have some extra time, I&#8217;ll be looking for an alternative CMS that could do the same thing but better.</p><p>The post <a href="https://szilvesztercsab.github.io/lessons-learned-from-this-experiment/">Lessons learned from this experiment</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The ideal tech-stack for the web</title>
-		<link>https://szilvesztercsab.github.io/the-ideal-tech-stack-for-the-web/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ideal-tech-stack-for-the-web</link>
+		<link>https://szilvesztercsab.github.io/ideal-web-stack/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ideal-web-stack</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 04 Jan 2022 21:14:58 +0000</pubDate>
@@ -45,7 +126,7 @@
 		<guid isPermaLink="false">https://szilvesztercsab.github.io/?p=133</guid>
 
 					<description><![CDATA[<p>Is there an ideal tech stack for websites? Should you be worried about missing out on it?</p>
-<p>The post <a href="https://szilvesztercsab.github.io/the-ideal-tech-stack-for-the-web/">The ideal tech-stack for the web</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></description>
+<p>The post <a href="https://szilvesztercsab.github.io/ideal-web-stack/">The ideal tech-stack for the web</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p class="has-drop-cap"><strong>The ideal tech-stack for a website?</strong> <strong>There&#8217;s no such thing.</strong> Ideal things don&#8217;t exist in real life, but opinions do. And here&#8217;s mine.</p>
 
 
@@ -114,7 +195,7 @@
 
 
 
-<p>After all, the first ever web page also was and still is <em>static</em>. Check it out: <a href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank" rel="noreferrer noopener nofollow">http://info.cern.ch/hypertext/WWW/TheProject.html</a>.</p><p>The post <a href="https://szilvesztercsab.github.io/the-ideal-tech-stack-for-the-web/">The ideal tech-stack for the web</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></content:encoded>
+<p>After all, the first ever web page also was and still is <em>static</em>. Check it out: <a href="http://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank" rel="noreferrer noopener nofollow">http://info.cern.ch/hypertext/WWW/TheProject.html</a>.</p><p>The post <a href="https://szilvesztercsab.github.io/ideal-web-stack/">The ideal tech-stack for the web</a> first appeared on <a href="https://szilvesztercsab.github.io/">skabah</a>.</p>]]></content:encoded>
 					
 		
 		
