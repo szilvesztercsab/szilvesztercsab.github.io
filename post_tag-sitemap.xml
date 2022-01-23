@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on January 22, 2022 at 10:55 pm by All in One SEO - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on January 23, 2022 at 12:06 am by All in One SEO - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://szilvesztercsab.github.io/default.xsl?sitemap=post_tag"?>
 <urlset
@@ -21,7 +21,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[https://szilvesztercsab.github.io/tag/website/]]></loc>
-		<lastmod><![CDATA[2022-01-20T20:55:43+00:00]]></lastmod>
+		<lastmod><![CDATA[2022-01-22T23:23:34+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
@@ -39,25 +39,25 @@
 	</url>
 	<url>
 		<loc><![CDATA[https://szilvesztercsab.github.io/tag/wordpress/]]></loc>
-		<lastmod><![CDATA[2022-01-20T20:55:43+00:00]]></lastmod>
+		<lastmod><![CDATA[2022-01-22T23:23:34+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://szilvesztercsab.github.io/tag/static-site/]]></loc>
-		<lastmod><![CDATA[2022-01-20T20:55:43+00:00]]></lastmod>
+		<lastmod><![CDATA[2022-01-22T23:23:34+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://szilvesztercsab.github.io/tag/github-pages/]]></loc>
-		<lastmod><![CDATA[2022-01-20T20:55:43+00:00]]></lastmod>
+		<lastmod><![CDATA[2022-01-22T23:23:34+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://szilvesztercsab.github.io/tag/opinions/]]></loc>
-		<lastmod><![CDATA[2022-01-20T20:55:43+00:00]]></lastmod>
+		<lastmod><![CDATA[2022-01-22T23:23:34+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
