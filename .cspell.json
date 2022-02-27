@@ -1,0 +1,18 @@
+{
+  "words": [
+    "csaba",
+    "szilveszter",
+    "berei",
+    "skabah",
+    "szilvesztercsab",
+    "eleventy",
+    "Genos"
+  ],
+  "overrides": [
+    {
+      "filename": "*.njk",
+      "languageId": "html"
+    }
+  ],
+  "ignorePaths": ["_site/**"]
+}

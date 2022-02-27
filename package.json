@@ -1,0 +1,32 @@
+{
+  "name": "szilvesztercsab.github.io",
+  "version": "1.0.0",
+  "description": "Personal website.",
+  "scripts": {
+    "prepare": "husky install",
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szilvesztercsab/szilvesztercsab.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szilvesztercsab/szilvesztercsab.github.io/issues"
+  },
+  "homepage": "https://github.com/szilvesztercsab/szilvesztercsab.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "cspell": "^5.18.5",
+    "husky": "^7.0.4"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

@@ -1,0 +1,2 @@
+permalink: "{{ page.filePathStem | replace: '/content/', '/' }}.html"
+layout: layouts/base
